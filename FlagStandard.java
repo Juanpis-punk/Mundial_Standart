@@ -135,7 +135,7 @@ switch (flag) {
 
     System.out.println("--------------------------------");  
 
-    for (fila = (121)-1; fila < 130; fila++) {
+    for (fila = (381)-1; fila < 390; fila++) {
 
         for (int columna = 0; columna < matriz[fila].length; columna++) {
 
