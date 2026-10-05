@@ -6,3 +6,4 @@ Magna
 jose estrada 
 Jeronimo Arcila
 Juan Camilo Gomez 
+Juan Manuel Castro
